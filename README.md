@@ -1,1 +1,1 @@
-# a collection of batch files im testing out
+# a collection of batch/shell script files im testing out
